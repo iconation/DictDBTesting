@@ -26,6 +26,6 @@ class IterableDictDB(IconScoreBase):
     @external(readonly=True)
     def get_items(self) -> list:
         items = []
-        for item in self._dict.get():
+        for item in self._dict:
             items.append(item)
         return items
