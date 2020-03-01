@@ -1,11 +1,11 @@
 <p align="center">
   <img 
-    src="https://i.imgur.com/XmEIL16.png" 
+    src="https://i.imgur.com/ANQxzO3.png" 
     width="200px"
     alt="ICONation logo">
 </p>
 
-<h1 align="center">ProjectName</h1>
+<h1 align="center">DictDBTesting</h1>
 
  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
